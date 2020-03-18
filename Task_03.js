@@ -32,7 +32,7 @@ switch(numWeek){
     alert("Суботница");
     break;
     case "7":
-    alert("Воскреенье");
+    alert("Воскреcенье");
     break;
     }
         
